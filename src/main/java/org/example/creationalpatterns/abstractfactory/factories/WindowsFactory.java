@@ -1,9 +1,9 @@
-package org.example.abstractfactory.factories;
+package org.example.creationalpatterns.abstractfactory.factories;
 
-import org.example.abstractfactory.buttons.Button;
-import org.example.abstractfactory.buttons.WindowsButton;
-import org.example.abstractfactory.checkboxes.Checkbox;
-import org.example.abstractfactory.checkboxes.WindowsCheckbox;
+import org.example.creationalpatterns.abstractfactory.buttons.Button;
+import org.example.creationalpatterns.abstractfactory.buttons.WindowsButton;
+import org.example.creationalpatterns.abstractfactory.checkboxes.Checkbox;
+import org.example.creationalpatterns.abstractfactory.checkboxes.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
 

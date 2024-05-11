@@ -1,4 +1,4 @@
-package org.example.abstractfactory.checkboxes;
+package org.example.creationalpatterns.abstractfactory.checkboxes;
 
 public class WindowsCheckbox implements Checkbox {
 

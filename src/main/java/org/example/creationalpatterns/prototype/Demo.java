@@ -1,4 +1,8 @@
-package org.example.creationalpatterns.prototype.shapes;
+package org.example.creationalpatterns.prototype;
+
+import org.example.creationalpatterns.prototype.shapes.Circle;
+import org.example.creationalpatterns.prototype.shapes.Rectangle;
+import org.example.creationalpatterns.prototype.shapes.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

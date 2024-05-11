@@ -1,9 +1,9 @@
-package org.example.abstractfactory.factories;
+package org.example.creationalpatterns.abstractfactory.factories;
 
-import org.example.abstractfactory.buttons.Button;
-import org.example.abstractfactory.buttons.MacOSButton;
-import org.example.abstractfactory.checkboxes.Checkbox;
-import org.example.abstractfactory.checkboxes.MacOSCheckbox;
+import org.example.creationalpatterns.abstractfactory.buttons.Button;
+import org.example.creationalpatterns.abstractfactory.buttons.MacOSButton;
+import org.example.creationalpatterns.abstractfactory.checkboxes.Checkbox;
+import org.example.creationalpatterns.abstractfactory.checkboxes.MacOSCheckbox;
 
 public class MacOSFactory implements GUIFactory {
 

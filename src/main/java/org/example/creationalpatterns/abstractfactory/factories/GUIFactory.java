@@ -1,7 +1,7 @@
-package org.example.abstractfactory.factories;
+package org.example.creationalpatterns.abstractfactory.factories;
 
-import org.example.abstractfactory.buttons.Button;
-import org.example.abstractfactory.checkboxes.Checkbox;
+import org.example.creationalpatterns.abstractfactory.buttons.Button;
+import org.example.creationalpatterns.abstractfactory.checkboxes.Checkbox;
 
 public interface GUIFactory {
     Button createButton();

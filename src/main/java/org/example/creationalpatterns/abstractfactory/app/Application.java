@@ -1,8 +1,8 @@
-package org.example.abstractfactory.app;
+package org.example.creationalpatterns.abstractfactory.app;
 
-import org.example.abstractfactory.buttons.Button;
-import org.example.abstractfactory.checkboxes.Checkbox;
-import org.example.abstractfactory.factories.GUIFactory;
+import org.example.creationalpatterns.abstractfactory.buttons.Button;
+import org.example.creationalpatterns.abstractfactory.checkboxes.Checkbox;
+import org.example.creationalpatterns.abstractfactory.factories.GUIFactory;
 
 public class Application {
     private final Button button;

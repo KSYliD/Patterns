@@ -1,9 +1,9 @@
-package org.example.abstractfactory;
+package org.example.creationalpatterns.abstractfactory;
 
-import org.example.abstractfactory.app.Application;
-import org.example.abstractfactory.factories.GUIFactory;
-import org.example.abstractfactory.factories.MacOSFactory;
-import org.example.abstractfactory.factories.WindowsFactory;
+import org.example.creationalpatterns.abstractfactory.app.Application;
+import org.example.creationalpatterns.abstractfactory.factories.GUIFactory;
+import org.example.creationalpatterns.abstractfactory.factories.MacOSFactory;
+import org.example.creationalpatterns.abstractfactory.factories.WindowsFactory;
 
 public class Main {
 

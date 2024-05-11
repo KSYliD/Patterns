@@ -1,4 +1,4 @@
-package org.example.abstractfactory.buttons;
+package org.example.creationalpatterns.abstractfactory.buttons;
 
 public class MacOSButton implements Button {
 
